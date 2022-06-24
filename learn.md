@@ -23,13 +23,18 @@ It displays the time in hours, minutes and seconds.
 ## HTML CODE :)
 In this section, we have a dummy time in the format of “HH:MM:SS” wrapped inside a “div” 
 
-![HTML](https://drive.google.com/drive/folders/1kJ-YjMIKC_HlujHGaIlEQOoClu_psgbP)
+
+![html](https://user-images.githubusercontent.com/95465072/175477133-54b5ffd4-8af1-48d2-a87d-96225aac7b17.png)
+
+
+
 
 ## CSS :)
 
 For CSS, we have just aligned our clock to the center of the page. Other than that, it is just some font-size and width which you can adjust according to your need. 
 
-![css](https://drive.google.com/drive/folders/1kJ-YjMIKC_HlujHGaIlEQOoClu_psgbP)
+![css](https://user-images.githubusercontent.com/95465072/175477251-f76e3e50-7afa-4f7a-82d8-0d864e0b7388.png)
+
 
 ## Javascript :)
 
@@ -48,6 +53,8 @@ For CSS, we have just aligned our clock to the center of the page. Other than th
 
 
 
-> **Note:** You can use digital fonts available online to make the clock look more beautiful. For that, you have to download their file into your project and then use the “font-face” property to use that custom font. 
+> **Note:** You can use digital fonts available online to make the clock look more beautiful. For that, you have to download their file into your project and then use the “font-face” property to use that custom font.
+ 
 
-![Javascript](https://drive.google.com/drive/folders/1kJ-YjMIKC_HlujHGaIlEQOoClu_psgbP)
+![javascript](https://user-images.githubusercontent.com/95465072/175477273-58cd7fcc-9a2c-475b-9ed1-a0752151c457.png)
+
